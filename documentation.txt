@@ -1,0 +1,30 @@
+---------------------
+React Modules
+---------------------
+
+Module's With Direct Installation :
+
+1. formik
+2. yup
+3. react-icons
+4. redux
+5. react-redux
+6. redux-thunk
+7. react-router-dom
+
+Installation command -> npm install formik yup react-icons react-redux redux-thunk redux react-router-dom
+
+
+Module's Install With Configuration :
+
+1. Tailwind Css
+	Installation Guide Link -> https://tailwindcss.com/docs/guides/create-react-app
+
+2. Chakra Ui
+
+
+---------------------
+External Links
+---------------------
+
+Instagram Logo : https://i.imgur.com/zqpwkLQ.png
